@@ -13,8 +13,10 @@ This project simulates basic banking operations through a terminal-based interfa
 - Menu-based CLI for user interaction
 
 # How to Run
- Clone the repository or download it as a ZIP:
- 
+1. Make sure Python 3 is installed on your computer.  
+2. Clone the repository or download it as a ZIP:
    ```bash
    git clone https://github.com/shirmu2703/Python-Project.git
    cd Python-Project
+
+
